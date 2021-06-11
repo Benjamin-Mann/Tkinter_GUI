@@ -1,0 +1,18 @@
+{
+    "Amazon": {
+        "Email": "john.smith@email.com",
+        "Password": "A1@2IE04$12"
+    },
+    "Google": {
+        "Email": "john.smith@email.com",
+        "Password": "99A0!W4$#03"
+    },
+    "Facebook": {
+        "Email": "john.smith@email.com",
+        "Password": "552*57N1p7x"
+    },
+    "Home Depot": {
+        "Email": "john.smith@email.com",
+        "Password": "Xy0%cl31#4a%"
+    }
+}
